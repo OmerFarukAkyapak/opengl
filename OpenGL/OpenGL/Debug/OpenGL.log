@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\faruk\source\repos\OpenGL\OpenGL\Kaynak.cpp(122,12): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+C:\Users\faruk\source\repos\OpenGL\OpenGL\Kaynak.cpp(123,12): warning C4244: 'bağımsız değişken': 'double' - 'GLfloat' dönüşümü; veri kaybı olabilir
+  OpenGL.vcxproj -> C:\Users\faruk\source\repos\OpenGL\Debug\OpenGL.exe
